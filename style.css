@@ -38,9 +38,9 @@ span{
 .half-width{
     width: 50%;
 }
-.half-width img{
-    width: 80%;
-
+.half-width img {
+    max-width: 80%;
+    margin-left: 50px;
 }
 .my-mission{
     text-align: center;
@@ -74,9 +74,8 @@ span{
 #illu-03{
     background-color: blanchedalmond;
 }
-.community{
-    padding-left: 60
-    px;
+half-widt .community{
+    padding-right:  80px;
 }
 footer{
     bottom: 0;
